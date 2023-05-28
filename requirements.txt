@@ -1,0 +1,8 @@
+numpy==1.19.3
+opencv-python==4.5.5.64
+torch
+torchvision
+torchaudio
+tensorflow==2.6.2
+pandas==1.1.5
+protobuf==3.19.6
